@@ -14,6 +14,7 @@ MovieLens_Ex1
   - Written as (MM/YYYY, number of new users for the month)
 
 MovieLens_Ex2
+  - Anser: 134,589
   - Written as list of all inactive users (user ID, number of months that this user has been inactive)
 
 MovieLens_Ex3
